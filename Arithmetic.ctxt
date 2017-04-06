@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Arithmetic()
+comment1.params=num
+comment1.target=Arithmetic(int)
+comment2.params=num\ op
+comment2.target=Arithmetic(int,\ char)
+comment3.params=
+comment3.target=int\ getNum()
+comment4.params=numAdd
+comment4.target=int\ add(Arithmetic)
+comment5.params=numSub
+comment5.target=int\ subtract(Arithmetic)
+numComments=6

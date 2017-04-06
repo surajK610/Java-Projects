@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=coeff\ d
+comment0.target=Quadratic(int[],\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Quadratic\r\n
+comment1.params=
+comment1.target=java.util.ArrayList\ getRationalZeros()
+comment2.params=
+comment2.target=java.util.ArrayList\ getPossZeros()
+comment3.params=zero
+comment3.target=boolean\ seeIfZero(int)
+comment4.params=numToFac
+comment4.target=java.util.ArrayList\ getFactors(int)
+numComments=5
